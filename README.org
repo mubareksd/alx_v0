@@ -1,0 +1,5 @@
+#+title: Alx
+
+* License
+
+#+html: <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img src="https://www.gnu.org/graphics/gplv3-127x51.png"></a>
