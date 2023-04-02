@@ -17,7 +17,7 @@ class _HomePageState extends State<HomePage> {
   late WebViewController controller;
   double progress = 0;
 
-  String url = 'https://alx-intranet.hbtn.io/';
+  String url = 'https://intranet.alxswe.com/';
 
   @override
   Widget build(final BuildContext context) {
